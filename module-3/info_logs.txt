@@ -1,0 +1,2 @@
+INFO: system booted successfully
+INFO: user logged in
