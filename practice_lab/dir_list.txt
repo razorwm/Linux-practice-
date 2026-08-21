@@ -1,0 +1,6 @@
+backup
+backup_copy
+dir_list.txt
+important.log
+important_hard.log
+link_to_file1
